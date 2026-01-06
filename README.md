@@ -21,11 +21,11 @@ To get a local copy up and running, follow these simple steps:
 
 1.  **Clone the repository** to your local machine:
     ```bash
-    git clone github.com
+    git clone https://github.com/Rai321han/W3_HTML_CSS_ASSIGNMENT
     ```
 2.  **Navigate** to the project directory:
     ```bash
-    cd your-repository-name
+    cd W3_HTML_CSS_ASSIGNMENT
     ```
 3.  **Open** the `index.html` file in your preferred web browser to view the project.
 
