@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="6.82666in" height="6.82666in" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 6.82666 6.82666"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#212121;stroke-width:0.213335}
+    .fil0 {fill:none}
+    .fil1 {fill:#212121;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_259683616">
+   <circle id="_259684384" class="fil0 str0" cx="3.41333" cy="3.41333" r="2.45333"/>
+   <polygon id="_259684600" class="fil1" points="5.21952,1.75797 1.75797,5.21952 1.60714,5.06869 5.06869,1.60714 "/>
+   <g>
+    <line id="_259684288" class="fil0 str0" x1="4.73559" y1="3.41333" x2="4.73559" y2= "3.94666" />
+    <path id="_259684144" class="fil1" d="M1.76 3.41332l1.35166 0 -0.213339 0.213339 -1.03165 0 0 0.213331 0.818319 0 -0.213339 0.213339 -0.71165 0 -0.106669 0 0 -0.106669 0 -0.426669 0 -0.106669 0.106669 0zm1.95502 0l1.35165 0 0.106669 0 0 0.106669 0 0.426669 0 0.106669 -0.106669 0 -1.99165 0 0.213339 -0.213339 1.67165 0 0 -0.213331 -1.45831 0 0.213339 -0.213339z"/>
+    <path id="_259684096" class="fil1" d="M4.30893 1.91999c0,0.0948071 0.0156457,0.178394 0.042437,0.253614l-0.164953 0.164953c-0.0559685,-0.116677 -0.0908228,-0.252665 -0.0908228,-0.418567l0.213339 0zm0.286913 0.6125c0.0416063,0.0418976 0.0848425,0.0819961 0.127598,0.121634 0.210071,0.194756 0.41013,0.380236 0.418366,0.706681l-0.212504 0.005c-0.00595669,-0.236079 -0.174201,-0.392063 -0.350862,-0.555846 -0.0445984,-0.0413465 -0.0896496,-0.0831181 -0.133382,-0.126685l0.150783 -0.150783z"/>
+   </g>
+  </g>
+ </g>
+ <rect class="fil0" width="6.82666" height="6.82666"/>
+</svg>
